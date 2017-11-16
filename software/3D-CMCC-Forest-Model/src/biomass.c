@@ -10,7 +10,6 @@
 
 extern logger_t* g_debug_log;
 
-
 void live_total_wood_age(const age_t *const a, species_t *const s)
 {
 #if 0
