@@ -1,0 +1,1 @@
+Year	Month	n_days	Rg_f	Ta_f	Tmax	Tmin	RH_f	Ts_f	Precip	SWC	LAI	ET	WS_f
